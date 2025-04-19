@@ -16,7 +16,7 @@ This repository consists of two sub folders that contains solution to the respec
 
 ## 📊 Report
 Report is available on wandb: 
-[Click here]((https://wandb.ai/cs24m033-iit-madras/DA6401-A2/reports/DA6401-Assignment-2--VmlldzoxMjI2NzQ5Ng?accessToken=2blszv8wjnb5o15yndurr03q4qsg2tubhrdno6fcod75w1eiafjcp4ykp035v0w0))
+[Click here](https://wandb.ai/cs24m033-iit-madras/DA6401-A2/reports/DA6401-Assignment-2--VmlldzoxMjI2NzQ5Ng?accessToken=2blszv8wjnb5o15yndurr03q4qsg2tubhrdno6fcod75w1eiafjcp4ykp035v0w0)
 or
 https://wandb.ai/cs24m033-iit-madras/DA6401-A2/reports/DA6401-Assignment-2--VmlldzoxMjI2NzQ5Ng?accessToken=2blszv8wjnb5o15yndurr03q4qsg2tubhrdno6fcod75w1eiafjcp4ykp035v0w0
 

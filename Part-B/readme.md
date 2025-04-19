@@ -5,7 +5,7 @@
   ```bash
   pip install -r requirements.txt
 - Download the ``train-b.py`` script.
-- Download the dataset [Click here]((https://storage.googleapis.com/wandb_datasets/nature_12K.zip)) and keep it in the same directory as ``train-b.py`` file.
+- Download the dataset [Click here](https://storage.googleapis.com/wandb_datasets/nature_12K.zip) and keep it in the same directory as ``train-b.py`` file.
 - Run the script
   ```bash
   python train-b.py
