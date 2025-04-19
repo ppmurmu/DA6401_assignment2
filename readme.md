@@ -11,7 +11,7 @@ This repository consists of two sub folders that contains solution to the respec
 ## 📁 Part-B
 - 📓 `part-b.ipynb` : Python notebook file that contains experiments ran fine tune the pre trained model (GoogLeNet).
 - 🐍 `train-b.py` : Python script to fine tune the pre trained model (GoogLeNet) with different strategies.
-- 📄 `readme.md` : Instruction to run the train-a.py script.
+- 📄 `readme.md` : Instruction to run the train-b.py script.
 
 
 ## 📊 Report
