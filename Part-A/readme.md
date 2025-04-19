@@ -5,7 +5,7 @@
   ```bash
   pip install -r requirements.txt
 - Download the ``train-a.py`` script.
-- Download the dataset [Click here]([URL](https://storage.googleapis.com/wandb_datasets/nature_12K.zip)) and keep it in the same directory as ``train-a.py`` file.
+- Download the dataset [Click here]((https://storage.googleapis.com/wandb_datasets/nature_12K.zip)) and keep it in the same directory as ``train-a.py`` file.
 - Run the script
   ```bash
   python train-a.py
@@ -29,4 +29,4 @@
 | `--batch_size`        | `int`    | `64`                   | Batch size (options: 32, 64)                                  |
 | `--dense_layer`       | `int`    | `512`                  | Number of neurons in the dense (fully connected) layer        |
 
-
+## 

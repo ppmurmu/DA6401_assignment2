@@ -27,7 +27,7 @@ def create_dataloaders(
     val_ratio: float = 0.2,
     num_workers: int = 2,
     seed: int = 42,
-    resize: tuple[int, int] = (224, 224), #resnet
+    resize: tuple[int, int] = (224, 224), #googlenet
 ):
     # 1) Normalization constants
     mean = [0.4712, 0.46, 0.389]
